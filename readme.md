@@ -6,10 +6,10 @@ Crie este pequeno sistema para compra de ticket free é um projeto simples usand
 
 -- URL do Admin -> http://localhost/ticket/public/admin
 
--- Models -> app/Models
+-- Model -> app/Models
 
 -- View -> resources/views/
 
--- Controllers -> app/Http/Controllers/Ticket
+-- Controller -> app/Http/Controllers/Ticket
 
 -- Banco de dados SQLlite -> database/database.sqlite
